@@ -53,3 +53,25 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - Detecção de Race Conditions;
 - Deploy simples;
 - Baixa curva de aprendizado;
+
+---
+
+- Foundation
+- Pakages
+- Context
+- Database
+- Packaging
+- Testing
+- APIs
+- Multithreading
+- Events
+- GOPRIVATE
+- GraphQL
+- gRPC
+- UploadS3
+- CLI
+- SQLC
+- UOW
+- DI
+- Clean Archtecture
+- Deploy - k8s
