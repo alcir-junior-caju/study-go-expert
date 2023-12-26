@@ -1,3 +1,6 @@
 [submodule "foundation"]
 	path = foundation
 	url = git@github.com:alcir-junior-caju/study-go-expert-foundation.git
+[submodule "packages"]
+	path = packages
+	url = git@github.com:alcir-junior-caju/study-go-expert-packages.git
