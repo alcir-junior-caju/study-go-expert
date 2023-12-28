@@ -4,3 +4,6 @@
 [submodule "packages"]
 	path = packages
 	url = git@github.com:alcir-junior-caju/study-go-expert-packages.git
+[submodule "context"]
+	path = context
+	url = git@github.com:alcir-junior-caju/study-go-expert-context.git
