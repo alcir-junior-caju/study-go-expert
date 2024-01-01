@@ -59,7 +59,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Foundation](https://github.com/alcir-junior-caju/study-go-expert-foundation)
 - [Pakages](https://github.com/alcir-junior-caju/study-go-expert-packages)
 - [Context](https://github.com/alcir-junior-caju/study-go-expert-context)
-- Database
+- [Database](https://github.com/alcir-junior-caju/study-go-expert-database)
 - Packaging
 - Testing
 - APIs
