@@ -7,3 +7,6 @@
 [submodule "context"]
 	path = context
 	url = git@github.com:alcir-junior-caju/study-go-expert-context.git
+[submodule "database"]
+	path = database
+	url = git@github.com:alcir-junior-caju/study-go-expert-database.git
