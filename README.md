@@ -60,6 +60,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Pakages](https://github.com/alcir-junior-caju/study-go-expert-packages)
 - [Context](https://github.com/alcir-junior-caju/study-go-expert-context)
 - [Database](https://github.com/alcir-junior-caju/study-go-expert-database)
+- [Challenge API](https://github.com/alcir-junior-caju/study-go-expert-api-challenge)
 - Packaging
 - Testing
 - APIs
