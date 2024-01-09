@@ -13,3 +13,6 @@
 [submodule "challenge-api"]
 	path = challenge-api
 	url = git@github.com:alcir-junior-caju/study-go-expert-api-challenge.git
+[submodule "packaging"]
+	path = packaging
+	url = git@github.com:alcir-junior-caju/study-go-expert-packaging.git
