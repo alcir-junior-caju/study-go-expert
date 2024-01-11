@@ -16,3 +16,6 @@
 [submodule "packaging"]
 	path = packaging
 	url = git@github.com:alcir-junior-caju/study-go-expert-packaging.git
+[submodule "testing"]
+	path = testing
+	url = git@github.com:alcir-junior-caju/study-go-expert-testing.git
