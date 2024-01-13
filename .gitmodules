@@ -19,3 +19,6 @@
 [submodule "testing"]
 	path = testing
 	url = git@github.com:alcir-junior-caju/study-go-expert-testing.git
+[submodule "apis"]
+	path = apis
+	url = git@github.com:alcir-junior-caju/study-go-expert-apis.git

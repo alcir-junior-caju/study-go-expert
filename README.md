@@ -63,7 +63,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Challenge API](https://github.com/alcir-junior-caju/study-go-expert-api-challenge)
 - [Packaging](https://github.com/alcir-junior-caju/study-go-expert-packaging)
 - [Testing](https://github.com/alcir-junior-caju/study-go-expert-testing)
-- APIs
+- [APIs](https://github.com/alcir-junior-caju/study-go-expert-apis)
 - Multithreading
 - Events
 - GOPRIVATE
