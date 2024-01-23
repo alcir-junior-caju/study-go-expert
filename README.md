@@ -60,11 +60,12 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Pakages](https://github.com/alcir-junior-caju/study-go-expert-packages)
 - [Context](https://github.com/alcir-junior-caju/study-go-expert-context)
 - [Database](https://github.com/alcir-junior-caju/study-go-expert-database)
-- [Challenge API](https://github.com/alcir-junior-caju/study-go-expert-api-challenge)
+- [API Challenge](https://github.com/alcir-junior-caju/study-go-expert-api-challenge)
 - [Packaging](https://github.com/alcir-junior-caju/study-go-expert-packaging)
 - [Testing](https://github.com/alcir-junior-caju/study-go-expert-testing)
 - [APIs](https://github.com/alcir-junior-caju/study-go-expert-apis)
-- Multithreading
+- [Multithreading](https://github.com/alcir-junior-caju/study-go-expert-multithreading)
+- [Multithreading Challenge](https://github.com/alcir-junior-caju/study-go-expert-multithreading-challenge)
 - Events
 - GOPRIVATE
 - GraphQL

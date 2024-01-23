@@ -22,3 +22,6 @@
 [submodule "apis"]
 	path = apis
 	url = git@github.com:alcir-junior-caju/study-go-expert-apis.git
+[submodule "multithreading"]
+	path = multithreading
+	url = git@github.com:alcir-junior-caju/study-go-expert-multithreading.git
