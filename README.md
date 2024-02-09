@@ -66,7 +66,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [APIs](https://github.com/alcir-junior-caju/study-go-expert-apis)
 - [Multithreading](https://github.com/alcir-junior-caju/study-go-expert-multithreading)
 - [Multithreading Challenge](https://github.com/alcir-junior-caju/study-go-expert-multithreading-challenge)
-- Events
+- [Events](https://github.com/alcir-junior-caju/study-go-expert-events)
 - GOPRIVATE
 - GraphQL
 - gRPC

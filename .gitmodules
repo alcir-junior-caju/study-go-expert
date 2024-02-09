@@ -25,3 +25,6 @@
 [submodule "multithreading"]
 	path = multithreading
 	url = git@github.com:alcir-junior-caju/study-go-expert-multithreading.git
+[submodule "events"]
+	path = events
+	url = git@github.com:alcir-junior-caju/study-go-expert-events.git
