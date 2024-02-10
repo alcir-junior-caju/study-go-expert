@@ -28,3 +28,6 @@
 [submodule "events"]
 	path = events
 	url = git@github.com:alcir-junior-caju/study-go-expert-events.git
+[submodule "graphql"]
+	path = graphql
+	url = git@github.com:alcir-junior-caju/study-go-expert-graphql.git
