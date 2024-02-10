@@ -31,3 +31,6 @@
 [submodule "graphql"]
 	path = graphql
 	url = git@github.com:alcir-junior-caju/study-go-expert-graphql.git
+[submodule "grpc"]
+	path = grpc
+	url = git@github.com:alcir-junior-caju/study-go-expert-grpc.git

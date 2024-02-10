@@ -69,7 +69,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Events](https://github.com/alcir-junior-caju/study-go-expert-events)
 - GOPRIVATE
 - [GraphQL](https://github.com/alcir-junior-caju/study-go-expert-graphql)
-- gRPC
+- [gRPC](https://github.com/alcir-junior-caju/study-go-expert-grpc)
 - UploadS3
 - CLI
 - SQLC
