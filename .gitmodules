@@ -40,3 +40,6 @@
 [submodule "cobra-cli"]
 	path = cobra-cli
 	url = git@github.com:alcir-junior-caju/study-go-expert-cobra-cli.git
+[submodule "sqlc"]
+	path = sqlc
+	url = git@github.com:alcir-junior-caju/study-go-expert-sqlc.git
