@@ -46,3 +46,6 @@
 [submodule "uow"]
 	path = uow
 	url = git@github.com:alcir-junior-caju/study-go-expert-uow.git
+[submodule "di"]
+	path = di
+	url = git@github.com:alcir-junior-caju/study-go-expert-di.git
