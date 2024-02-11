@@ -72,7 +72,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [UploadS3](https://github.com/alcir-junior-caju/study-go-expert-upload-s3)
 - [CLI](https://github.com/alcir-junior-caju/study-go-expert-cobra-cli)
 - [SQLC](https://github.com/alcir-junior-caju/study-go-expert-sqlc)
-- UOW
+- [UOW](https://github.com/alcir-junior-caju/study-go-expert-uow)
 - DI
 - Clean Archtecture
 - Deploy - k8s

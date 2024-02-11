@@ -43,3 +43,6 @@
 [submodule "sqlc"]
 	path = sqlc
 	url = git@github.com:alcir-junior-caju/study-go-expert-sqlc.git
+[submodule "uow"]
+	path = uow
+	url = git@github.com:alcir-junior-caju/study-go-expert-uow.git
