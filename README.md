@@ -70,7 +70,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [GraphQL](https://github.com/alcir-junior-caju/study-go-expert-graphql)
 - [gRPC](https://github.com/alcir-junior-caju/study-go-expert-grpc)
 - [UploadS3](https://github.com/alcir-junior-caju/study-go-expert-upload-s3)
-- CLI
+- [CLI](https://github.com/alcir-junior-caju/study-go-expert-cobra-cli)
 - SQLC
 - UOW
 - DI

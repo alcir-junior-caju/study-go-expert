@@ -37,3 +37,6 @@
 [submodule "upload-s3"]
 	path = upload-s3
 	url = git@github.com:alcir-junior-caju/study-go-expert-upload-s3.git
+[submodule "cobra-cli"]
+	path = cobra-cli
+	url = git@github.com:alcir-junior-caju/study-go-expert-cobra-cli.git
