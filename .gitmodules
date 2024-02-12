@@ -49,3 +49,9 @@
 [submodule "di"]
 	path = di
 	url = git@github.com:alcir-junior-caju/study-go-expert-di.git
+[submodule "deploy-k8s"]
+	path = deploy-k8s
+	url = git@github.com:alcir-junior-caju/study-go-expert-deploy-k8s.git
+[submodule "clean-architecture"]
+	path = clean-architecture
+	url = git@github.com:alcir-junior-caju/study-go-expert-clean-architecture.git
