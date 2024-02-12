@@ -58,3 +58,6 @@
 [submodule "graceful-shutdown"]
 	path = graceful-shutdown
 	url = git@github.com:alcir-junior-caju/study-go-expert-graceful-shutdown.git
+[submodule "panic-recover"]
+	path = panic-recover
+	url = git@github.com:alcir-junior-caju/study-go-expert-panic-recover.git
