@@ -55,3 +55,6 @@
 [submodule "clean-architecture"]
 	path = clean-architecture
 	url = git@github.com:alcir-junior-caju/study-go-expert-clean-architecture.git
+[submodule "graceful-shutdown"]
+	path = graceful-shutdown
+	url = git@github.com:alcir-junior-caju/study-go-expert-graceful-shutdown.git
