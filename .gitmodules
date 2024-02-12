@@ -61,3 +61,6 @@
 [submodule "panic-recover"]
 	path = panic-recover
 	url = git@github.com:alcir-junior-caju/study-go-expert-panic-recover.git
+[submodule "fsnotify"]
+	path = fsnotify
+	url = git@github.com:alcir-junior-caju/study-go-expert-fsnotify.git

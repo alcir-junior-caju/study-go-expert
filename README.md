@@ -78,3 +78,4 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Deploy - k8s](https://github.com/alcir-junior-caju/study-go-expert-deploy-k8s)
 - [Graceful Shutdown](https://github.com/alcir-junior-caju/study-go-expert-graceful-shutdown)
 - [Panic Recover](https://github.com/alcir-junior-caju/study-go-expert-panic-recover)
+- [FSNotify](https://github.com/alcir-junior-caju/study-go-expert-fsnotify)
